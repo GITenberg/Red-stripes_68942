@@ -1,0 +1,29 @@
+_repo: Red-stripes_68942
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pendexter, Hugh
+    alias: Rochester, Faunce
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '32134'
+    url: http://www.gutenberg.org/2009/agents/32134
+    wikipedia: https://en.wikipedia.org/wiki/Hugh_Pendexter
+description: ''
+gutenberg_issued: '2022-09-09'
+identifiers:
+  gutenberg: '68942'
+language: en
+pgterms:marc904: https://archive.org/details/AdventureV060N0419261123
+pgterms:marc905: 20220825160537pendexter
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Butterick Publishing Company,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Red stripes
+url: http://www.gutenberg.org/ebooks/68942
